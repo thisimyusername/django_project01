@@ -153,7 +153,7 @@ pyecharts==0.5.11
 pyecharts-javascripthon==0.0.6
 pyecharts-jupyter-installer==0.0.3
 pyflakes==1.6.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyInstaller==3.4
 pylint==1.8.4
 pymongo==3.7.2
